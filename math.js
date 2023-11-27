@@ -25,3 +25,7 @@ export function log(a) {
 export function sin(num) {
     return Math.sin(num);
 }
+
+export function cos(num) {
+    return Math.cos(num);
+}

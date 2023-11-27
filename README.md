@@ -15,3 +15,4 @@ https://education.github.com/git-cheat-sheet-education.pdf
 - `git checkout` / `git switch`: This means to switch branches
 - "Pull request" (aka PR): A request to merge changes from one branch to another branch
 - `git pull`: Use this to get hosted commits onto your local branch
+- `git branch -D branch_name`: Use this to delete a branch
