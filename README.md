@@ -13,3 +13,5 @@ https://education.github.com/git-cheat-sheet-education.pdf
 - `git checkout -b`: Use this to create new branches
 - "Checked out branch": This means the current branch
 - `git checkout` / `git switch`: This means to switch branches
+- "Pull request" (aka PR): A request to merge changes from one branch to another branch
+- `git pull`: Use this to get hosted commits onto your local branch
