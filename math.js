@@ -23,5 +23,5 @@ export function log(a) {
 }
 
 export function sin(num) {
-    return Math.sin(a);
+    return Math.sin(num);
 }
