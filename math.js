@@ -21,3 +21,7 @@ export function sqrt(a) {
 export function log(a) {
     return Math.log(a);
 }
+
+export function sin(num) {
+    return Math.sin(num);
+}
