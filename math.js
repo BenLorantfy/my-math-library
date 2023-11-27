@@ -17,3 +17,7 @@ export function pow(a, b) {
 export function sqrt(a) {
     return Math.sqrt(a);
 }
+
+export function log(a) {
+    return Math.log(a);
+}
