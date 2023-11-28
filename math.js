@@ -33,3 +33,7 @@ export function tan(num) {
 export function cos(num) {
     return Math.cos(num);
 }
+
+export function cot(num) {
+    return 1 / Math.tan(num);
+}
