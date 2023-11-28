@@ -26,6 +26,10 @@ export function sin(num) {
     return Math.sin(num);
 }
 
+export function tan(num) {
+    return Math.tan(num);
+}
+
 export function cos(num) {
     return Math.cos(num);
 }
