@@ -38,6 +38,6 @@ export function cot(num) {
     return 1 / Math.tan(num);
 }
 
-export function sec(num) {
-    return 1 / Math.cos(num);
+export function sec(a) {
+    return 1 / Math.cos(a);
 }
